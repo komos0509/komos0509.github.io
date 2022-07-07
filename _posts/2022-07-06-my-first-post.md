@@ -3,9 +3,9 @@ title:  "첫번째 포스팅"
 excerpt: "첫번째 포스팅이다. 이것저것 실험해보고 더 나은 블로그를 위하여 발전시켜 보자! "
 
 categories:
-  - Blog
+  - test
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [test, review]
 
 toc: true
 toc_sticky: true
