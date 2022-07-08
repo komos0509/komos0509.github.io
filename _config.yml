@@ -110,7 +110,7 @@ author:
   location         : "South Korea, Daegu"
   email            :
   links:
-    - label: "Email, komos10203040@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url : "mailto:komos10203040@gmail.com"
     - label: "Website"
