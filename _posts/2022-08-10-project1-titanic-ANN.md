@@ -1,5 +1,5 @@
 ---
-title:  "Titanic"
+title:  "Titanic - ANN"
 excerpt: "Titanic - Machine Learning from Disaster"
 
 categories:
